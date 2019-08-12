@@ -12,7 +12,7 @@ import android.widget.EditText;
 import android.widget.ScrollView;
 
 import java.util.ArrayList;
-
+// also done by me
 public class MainActivity extends AppCompatActivity implements ProgressFragment.OnFragmentInteractionListener, FirstFragment.OnFragmentInteractionListener, SecondFragment.OnFragmentInteractionListener {
 
     ScrollView scrollView;
