@@ -6,7 +6,7 @@ import org.json.JSONObject;
 
 import java.util.ArrayList;
 
-
+//this is also done by me
 public class Json {
     static public class RecipeJSONParser {
         static ArrayList<Recipe> parseRecipes(String in) throws JSONException {
