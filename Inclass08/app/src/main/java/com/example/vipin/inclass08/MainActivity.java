@@ -15,6 +15,7 @@ import java.util.ArrayList;
 // also done by me
 public class MainActivity extends AppCompatActivity implements ProgressFragment.OnFragmentInteractionListener, FirstFragment.OnFragmentInteractionListener, SecondFragment.OnFragmentInteractionListener {
 
+    //mainactivity
     ScrollView scrollView;
     String dish;
     final int[] i = {0};
