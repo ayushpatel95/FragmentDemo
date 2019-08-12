@@ -31,6 +31,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder> {
         }
     }
 
+    //hello
     // Provide a suitable constructor (depends on the kind of dataset)
     public MyAdapter(ArrayList<String> myDataset) {
         mDataset = myDataset;
